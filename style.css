@@ -1,1 +1,11 @@
-
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: italic;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    color: aquamarine;
+}
+h1{
+    font-family: 'Cormorant Garamond', serif;
+}
